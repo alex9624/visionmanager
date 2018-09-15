@@ -5,3 +5,4 @@ checkData BEGIN >>>>>
 >>>>>>>checkDateFormat strDate=[2004-07-18 18:55:03.0]
 >>>>>>>checkDateFormat strDate=[YYYY-MM-DD]
 >>>>>>>checkDateFormat strDate=
+this is a new Line.
